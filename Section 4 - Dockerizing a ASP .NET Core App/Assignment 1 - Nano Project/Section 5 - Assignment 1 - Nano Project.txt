@@ -1,0 +1,3 @@
+Assignment: Nano Project - Write a Dockerfile for a .NET Core App
+
+Now that you are equipped with all the essential Dockerfile instructions, as well as with the process, you are now tasked with building and publishing a docker image for a .NET Core application which is available as part of the same repository.
